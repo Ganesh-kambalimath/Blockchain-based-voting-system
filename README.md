@@ -400,7 +400,7 @@ I'm always excited to discuss blockchain, privacy tech, and how we can make demo
 
 - 🐙 GitHub: [@Ganesh-kambalimath](https://github.com/Ganesh-kambalimath)
 - 🐦 Twitter: [@No1_Ganesh](https://twitter.com/No1_Ganesh)
-- 💼 LinkedIn: [Connect with me]([https://linkedin.com/in/ganesh-kambalimath](https://www.linkedin.com/in/ganesh-kambalimath-260212361?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
+- 💼 LinkedIn: [https://linkedin.com/in/ganesh-kambalimath](https://www.linkedin.com/in/ganesh-kambalimath-260212361?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - 📧 Email: [Open for collaboration!](ganeshsdmcet@gmail.com)
 
 ### 💬 Discussion & Support
