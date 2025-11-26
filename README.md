@@ -400,8 +400,8 @@ I'm always excited to discuss blockchain, privacy tech, and how we can make demo
 
 - 🐙 GitHub: [@Ganesh-kambalimath](https://github.com/Ganesh-kambalimath)
 - 🐦 Twitter: [@No1_Ganesh](https://twitter.com/No1_Ganesh)
-- 💼 LinkedIn: [Connect with me](https://linkedin.com/in/ganesh-kambalimath)
-- 📧 Email: Open for collaboration!
+- 💼 LinkedIn: [Connect with me]([https://linkedin.com/in/ganesh-kambalimath](https://www.linkedin.com/in/ganesh-kambalimath-260212361?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
+- 📧 Email: [Open for collaboration!](ganeshsdmcet@gmail.com)
 
 ### 💬 Discussion & Support
 
@@ -427,7 +427,7 @@ If you find this project useful or interesting:
 ![GitHub stars](https://img.shields.io/github/stars/Ganesh-kambalimath/Blockchain-based-voting-system?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/Ganesh-kambalimath/Blockchain-based-voting-system?style=social)
 ![GitHub issues](https://img.shields.io/github/issues/Ganesh-kambalimath/Blockchain-based-voting-system)
-![GitHub license](https://img.shields.io/github/license/Ganesh-kambalimath/Blockchain-based-voting-system)
+
 
 ---
 
