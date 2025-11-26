@@ -14,7 +14,7 @@
 
 ## 👋 Hey There!
 
-I'm **Ganesh Kambalimath** ([@No1_Ganesh](https://twitter.com/No1_Ganesh)), and I'm passionate about building secure, privacy-preserving systems that actually make a difference. This project is close to my heart because it tackles one of democracy's biggest challenges: **ensuring every vote counts while keeping the process transparent and tamper-proof**.
+I'm **Ganesh Kambalimath** ([ganeshkambalimath]([https://twitter.com/No1_Ganesh](https://www.instagram.com/ganeshkambalimath?igsh=MWU5ZDJja2JvZndibA==))), and I'm passionate about building secure, privacy-preserving systems that actually make a difference. This project is close to my heart because it tackles one of democracy's biggest challenges: **ensuring every vote counts while keeping the process transparent and tamper-proof**.
 
 Having worked extensively with secure federated learning and privacy-preserving AI systems, I've seen firsthand how powerful decentralization can be. This blockchain voting system is my take on bringing that same level of security and transparency to the electoral process.
 
